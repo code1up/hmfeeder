@@ -1,0 +1,18 @@
+Owner
+Alan
+
+Client id
+ZJGVZCRSSCACB5EQI4XVBIGZSFRJSMJH4J211BOGMH2VU2UI
+
+Client secret
+YJ4U25D31SCJRP2RYQJGQ1HG2MG34XJJ0SOXVGI1KMMBPFVK
+
+Download / welcome page url
+http://twitter.com/code1up
+
+Your privacy policy url
+None provided
+
+Callback url
+https://hmfeeder.azurewebsites.net/foursquare/callback
+

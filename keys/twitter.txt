@@ -1,0 +1,25 @@
+Access level	 	Read-only 
+
+About the application permission model
+
+Consumer key		pjfa63fOon8afbRPyVyA
+
+Consumer secret		LFwJ7NA0wRj8Omjd713fr0e9QCO3U6YtZ4uXA1OogQ
+
+Request token URL	https://api.twitter.com/oauth/request_token
+
+Authorize URL		https://api.twitter.com/oauth/authorize
+
+Access token URL	https://api.twitter.com/oauth/access_token
+Callback URL		https://hmfeeder.azurewebsites.net/twitter/callback
+
+--------------------
+
+Use the access token string as your "oauth_token" and the access token secret as your
+"oauth_token_secret" to sign requests with your own Twitter account.
+Do not share your oauth_token_secret with anyone.
+
+Access token		374651544-LeTZBAPmjKnU9Mm32PQ6MljXjfoH4Sng5hs7hzkA
+Access token secret	i18gWwLrw0tLdHlKJFWJqp9qeIkl2wEk39wv7F7CRE
+Access level		Read-only
+
